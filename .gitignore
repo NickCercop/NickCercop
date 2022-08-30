@@ -1,0 +1,23 @@
+# Ignore all files by default, but scan all directories.
+*
+!*/
+
+# Do not ignore git files in the root of the repo.
+!/.git*
+
+# Do not ignore source, config and resources dirs.
+!/Source/**
+!/Resources/**
+!/Config/**
+
+# Windows
+ehthumbs.db
+Thumbs.db
+
+# Specific names
+!README
+!AUTHORS
+!LICENSE
+!FAQ
+!VERSION
+!ChangeLog
