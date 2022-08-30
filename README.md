@@ -1,4 +1,5 @@
-### Hi there 👋
+# NickCercop
+Hi 👋, my name is **Nick**. I am a game programmer/designer and founder of the company **[CercopesEntertainment](https://github.com/CercopesEntertainment)**.
 
 <!--
 **NickCercop/NickCercop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
